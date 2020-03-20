@@ -18,3 +18,38 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: tomato;
+}
+.cat2{
+    background-color:purple;
+
+}
+.cat3{
+background-color: yellow;
+}
+.container h1{
+    color: seashell;
+}
+.container img{
+    width: 100px;
+}
+.card{
+border: none;
+border-radius: 10px;
+box-shadow: 5px 5px 10px lightslategray;
+
+}
+.card-footer{
+    border-top: 1px solid rgba(0,0,0,.125);
+}
+#Contuct-us{
+    height: 300px;
+}
+footer{
+    text-align: center;
+}
